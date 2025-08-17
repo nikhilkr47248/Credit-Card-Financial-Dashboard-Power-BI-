@@ -51,6 +51,3 @@ This end-to-end business intelligence project demonstrates professional dashboar
 | `cust_add.csv` | Additional customer data for incremental updates | <br>
 | `README.md` | Project documentation and setup guide | <br>
 
-
-
-### Data Architecture
